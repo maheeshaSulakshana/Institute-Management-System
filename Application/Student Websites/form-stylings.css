@@ -1,0 +1,31 @@
+label{
+    font-size: 25px;
+}
+
+select{
+    font-size: 25px;
+    width: max-content;
+}
+
+textarea{
+    font-size: 25px;
+}
+
+button{
+    font-size: 25px;
+    position: relative;
+    left:240px;
+}
+
+table{
+    border: 1px solid black;
+    width: 700px;
+    height: 600px;
+    position: relative;
+    top: 50px;
+}
+
+form{
+    position: relative;
+    left: 80px; 
+}

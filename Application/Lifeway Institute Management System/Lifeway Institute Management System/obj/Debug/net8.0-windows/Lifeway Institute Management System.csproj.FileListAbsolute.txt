@@ -1,0 +1,94 @@
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.exe
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.deps.json
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.runtimeconfig.json
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.pdb
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmLogin.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.GenerateResource.cache
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.AssemblyInfoInputs.cache
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.AssemblyInfo.cs
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.CoreCompileInputs.cache
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\refint\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.pdb
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.genruntimeconfig.cache
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\ref\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.AssemblyReference.cache
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.CopyComplete
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmHome.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmStudent.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmParent.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmLecturer.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmBatch.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmNotes.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmStudentCourse.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmCourse.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmPayment.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmSchedule.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmAnswers.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmexamMarks.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmViewAttendance.resources
+C:\Users\Maheesha\Desktop\Home Work\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmViewSchedule.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.exe
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.deps.json
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.runtimeconfig.json
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Lifeway Institute Management System.pdb
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.AssemblyReference.cache
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmAnswers.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmBatch.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmCourse.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmexamMarks.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmLecturer.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmNotes.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmParent.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmPayment.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmSchedule.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmStudent.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmStudentCourse.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmViewAttendance.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmHome.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmLogin.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway_Institute_Management_System.frmViewSchedule.resources
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.GenerateResource.cache
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.AssemblyInfoInputs.cache
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.AssemblyInfo.cs
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.CoreCompileInputs.cache
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.csproj.CopyComplete
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\refint\Lifeway Institute Management System.dll
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.pdb
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\Lifeway Institute Management System.genruntimeconfig.cache
+C:\Users\Maheesha\Desktop\Home Work\Year 01\IMS\Application\Lifeway Institute Management System\Lifeway Institute Management System\obj\Debug\net8.0-windows\ref\Lifeway Institute Management System.dll
